@@ -1,4 +1,4 @@
-Challenge Bravo - Dynamically Handling Infinite Methods
+Challenge #0001 - Dynamically Handling Infinite Methods
 =======================================================
 
 The goal is to implement a `Rashie` class. `Rashie` is a hash whose symbol fields can be accessed via a dot accessor.

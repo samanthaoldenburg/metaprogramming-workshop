@@ -1,4 +1,4 @@
-Challenge Alfa - Intro to Class Macros
+Challenge #0001 - Intro to Class Macros
 ======================================
 
 The goal is to create 3 class macros:
