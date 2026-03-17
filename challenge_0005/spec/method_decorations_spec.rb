@@ -1,4 +1,4 @@
-RSpec.describe StaticMethods do
+RSpec.describe MethodDecorations do
   describe "`static` class macro" do
     it "can make a instance-level method callable at the class level" do
       expect(Foo).to respond_to :bar

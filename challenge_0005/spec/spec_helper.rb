@@ -1,5 +1,6 @@
-require_relative "../lib/static_methods"
+require_relative "../lib/method_decorations"
 require_relative "../lib/foo"
+require_relative "../lib/bar"
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|

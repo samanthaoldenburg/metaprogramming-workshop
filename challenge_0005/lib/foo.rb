@@ -1,7 +1,7 @@
-require_relative "static_methods"
+require_relative "method_decorations"
 
 class Foo
-  extend StaticMethods
+  extend MethodDecorations
 
   static def bar
     "bar"
