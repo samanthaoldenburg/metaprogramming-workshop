@@ -1,5 +1,5 @@
 module MethodDecorations
   # Makes a method class-level
-  def static
+  def static(*)
   end
 end
