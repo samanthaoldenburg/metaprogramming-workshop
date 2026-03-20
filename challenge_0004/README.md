@@ -2,8 +2,7 @@ Challenge #0004 - Intro to DSLs
 =================================
 
 Sometimes, the best way to solve a problem isn't to write a solution. In these cases, a more elegant solution is to
-define a language that describes the domain of the problem. That's a domain-specific language, and you love them if you
-love Rails or RSpec.
+define a language that describes the domain of the problem. That's a domain-specific language, and you love them if you love Rails or RSpec.
 
 This exercise will involve making a simple (albeit rather silly) DSL around being able to create the numbers 1-99 using words
 

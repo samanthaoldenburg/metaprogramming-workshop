@@ -1,4 +1,4 @@
-Challenge #0003 - Location
+Challenge #0003 - Code Location
 ==========================
 
 One of the underrated capabilities of Ruby is its ability to understand the locality of code as its executed. Things
