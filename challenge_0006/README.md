@@ -1,4 +1,4 @@
-Challenge #0007 - Advanced Macros
+Challenge #0006 - Advanced Macros
 =======================================================
 
 The goal is to `const` macro. Using `const` in front of an instance method makes it callable at the class level.
